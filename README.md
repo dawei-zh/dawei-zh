@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Here are some ideas to get you started:
+
+- 🔭 I’m currently a Physics PhD student at University of Southern California
+- This page and also my github is still under construction...
+
 <!--
 **dawei-zh/dawei-zh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
