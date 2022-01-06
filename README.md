@@ -1,10 +1,12 @@
 ### Hi there, I am Dawei Zhong 👋
 
-Welcome to my coding space. <!---I hope you could find something useful here and I am looking forward to collaborate on anything we are both interested. --->. I’m currently a Physics PhD student at University of Southern California. My previous research focus on astronomy and cosmology, and I change my research interest to quantum computation recently. 
+Welcome to my coding space!
+
+I’m currently a Physics PhD student at University of Southern California. My previous research focus on astronomy and cosmology, and I change my research interest to quantum computation recently. I am looking forward to collaborate on anything we are both interested. 
 
 For most of my repository, I organize them in the following way
 
-* `resource` as prefix: some useful resource 
+* `resource` as prefix: some useful resource
 * `research` as prefix: about my research 
 * `project` as prefix: projects as exercise or personal interest
 * Not include above prefix: please read the `README.md` file of a certain repository for details
