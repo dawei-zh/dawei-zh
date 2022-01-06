@@ -4,8 +4,8 @@ Welcome to my coding space. <!---I hope you could find something useful here and
 
 For most of my repository, I organize them in the following way
 
-* `resource` as prefix:
-* `research` as prefix: research 
+* `resource` as prefix: some useful resource 
+* `research` as prefix: about my research 
 * `project` as prefix: projects as exercise or personal interest
 * Not include above prefix: please read the `README.md` file of a certain repository for details
 
