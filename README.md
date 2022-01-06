@@ -7,8 +7,8 @@ I’m currently a Physics PhD student at University of Southern California. My p
 For most of my repository, I organize them in the following way
 
 * `resource` as prefix: some useful resource
-* `research` as prefix: about my research 
-* `project` as prefix: projects as exercise or personal interest
+* `research` as prefix: about my research, draft version
+* `lab` as prefix: projects as exercise or personal interest
 * Not include above prefix: please read the `README.md` file of a certain repository for details
 
 📫 Please feel free to contact me via
@@ -28,4 +28,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...--->
+- ⚡ Fun fact: ...
+- `package` as prefix:
+- `paper` as prefix: implementation of everything in paper, with validation file
+- --->
