@@ -1,12 +1,21 @@
-### Hi there 👋
+### Hi there, I am Dawei Zhong 👋
 
-Here are some ideas to get you started:
+Welcome to my coding space. <!---I hope you could find something useful here and I am looking forward to collaborate on anything we are both interested. --->. I’m currently a Physics PhD student at University of Southern California. My previous research focus on astronomy and cosmology, and I change my research interest to quantum computation recently. 
 
-- 🔭 I’m currently a Physics PhD student at University of Southern California
-- This page and also my github is still under construction...
+For most of my repository, I organize them in the following way
 
-<!--
-**dawei-zh/dawei-zh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* `resource` as prefix:
+* `research` as prefix: research 
+* `project` as prefix: projects as exercise or personal interest
+* Not include above prefix: please read the `README.md` file of a certain repository for details
+
+📫 Please feel free to contact me via
+
+* Email: [daweiz@usc.edu](mailto:daweiz@usc.edu)
+
+
+
+<!--**dawei-zh/dawei-zh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -17,5 +26,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ...--->
