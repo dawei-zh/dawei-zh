@@ -31,4 +31,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - `package` as prefix:
 - `paper` as prefix: implementation of everything in paper, with validation file
+- In `research-` repositories, we include the directory `implement` as an exercise
 - --->
