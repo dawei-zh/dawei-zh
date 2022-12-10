@@ -4,10 +4,15 @@ Welcome to my coding space (still under construction)!
 
 I’m currently a Physics PhD student at University of Southern California. My previous research focus on astronomy and cosmology, and I change my research field to quantum computation since April 2022. I am looking forward to collaborate on anything we are both interested. 
 
-<!--For most of my repository, I organize them in the following way
+As for my research,  I am working on NISQ algorithms (especially VQE algorithm), error reduction techniques for NISQ devices and the application of error reduction techniques to NISQ algorithm. 
+
+For most of my repository, I organize them in the following way
 
 * `resource` as prefix: some useful resource
 * `research` as prefix: about my research, draft version
+
+<!--
+
 * `lab` as prefix: projects as exercise or personal interest
 * Not include above prefix: please read the `README.md` file of a certain repository for details--->
 
