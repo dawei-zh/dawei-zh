@@ -1,11 +1,11 @@
-### Hi there, I am Dawei Zhong 👋
+### Hi there, I am Dawei Zhong 👋 (Still under construction)
 
-I'm a Physics PhD student at the 📚✌️ University of Southern California ✌️📚 working on ⚛️ Quantum Computing ⚛️. To be specific, I am trying to reduce the noise in current quantum computers and exploit their capacity to finish scientific simulation tasks. 
+I'm a Physics PhD student at the 📚 University of Southern California 📚 working on ⚛️ Quantum Computing ⚛️. To be specific, I am trying to reduce the noise in current quantum computers and exploit their capacity to finish scientific simulation tasks. 
 
-You can find useful resources about quantum computing at
+🔎 You can find useful resources at
 
 * 💡My blog💡on Quantum Computing
-* 📝 [Solution of Nielsen&Chuang](https://dawei-zh.github.io/resource-NielsenChuangSolution/) 📝 Detailed solutions of exercises in Nielsen&Chuang textbook. Use it at your own risk.
+* 📝 [Solution of Nielsen&Chuang](https://dawei-zh.github.io/resource-NielsenChuangSolution/) 📝 Detailed solutions of exercises in Nielsen&Chuang textbook. Use it at your own risk
 
 📫 Contact and find more about me:
 
