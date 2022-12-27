@@ -1,40 +1,15 @@
 ### Hi there, I am Dawei Zhong 👋
 
-Welcome to my coding space (still under construction)!
+I'm a Physics PhD student at the 📚✌️ University of Southern California ✌️📚 working on ⚛️ Quantum Computing ⚛️. To be specific, I am trying to reduce the noise in current quantum computers and exploit their capacity to finish scientific simulation tasks. 
 
-I’m currently a Physics PhD student at University of Southern California. My previous research focus on astronomy and cosmology, and I change my research field to quantum computation since April 2022. I am looking forward to collaborate on anything we are both interested. 
+You can find useful resources about quantum computing at
 
-As for my research,  I am working on NISQ algorithms (especially VQE algorithm), error reduction techniques for NISQ devices and the application of error reduction techniques to NISQ algorithm. 
+* 💡My blog💡on Quantum Computing
+* 📝 [Solution of Nielsen&Chuang](https://dawei-zh.github.io/resource-NielsenChuangSolution/) 📝 Detailed solutions of exercises in Nielsen&Chuang textbook. Use it at your own risk.
 
-For most of my repository, I organize them in the following way
+📫 Contact and find more about me:
 
-* `resource` as prefix: some useful resource
-* `research` as prefix: about my research, draft version
-
-<!--
-
-* `lab` as prefix: projects as exercise or personal interest
-* Not include above prefix: please read the `README.md` file of a certain repository for details--->
-
-📫 Please feel free to contact me via
-
-* Email: [daweiz@usc.edu](mailto:daweiz@usc.edu)
-
-
-
-<!--**dawei-zh/dawei-zh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- `package` as prefix:
-- `paper` as prefix: implementation of everything in paper, with validation file
-- In `research-` repositories, we include the directory `implement` as an exercise
-- --->
+* Email ✉️: [daweiz@usc.edu](mailto:daweiz@usc.edu)
+* Website 🌐: [About me](https://dawei-zh.github.io/)
+* GitHub <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" width=20px>: [dawei-zh](https://github.com/dawei-zh)
+* Linkedin <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" width=20px>: [Dawei Zhong](https://www.linkedin.com/in/here-is-dawei-zhong/)
