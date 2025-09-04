@@ -1,11 +1,6 @@
 ### Hi there, I am Dawei Zhong 👋 
 
-I'm a Physics PhD student at the 📚 University of Southern California 📚 working on ⚛️ Quantum Computing ⚛️, trying to reduce the noise in current quantum computers and exploit their capacity to finish scientific simulation tasks. 
-
-🔎 You can find useful resources at
-
-* 💡My blog💡on Quantum Computing (coming soon)
-* 📝 [Solution of Nielsen&Chuang](https://dawei-zh.github.io/resource-NielsenChuangSolution/) 📝 Detailed solutions of exercises in Nielsen&Chuang textbook. Disclaimer: **No Guarantee of Correctness** and **No Responsibility for Academic Integrity Violations**. Please use at your own risk. 
+I'm a Physics PhD student at the 📚 University of Southern California 📚 working on ⚛️ Quantum Computing ⚛️. I am working on error correction, error mitigation and their application on early fault-tolerant quantum devices. I am also interested in solving classically hard problems with quantum algorithms.
 
 📫 Contact and find more about me:
 
