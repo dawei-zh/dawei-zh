@@ -2,7 +2,7 @@
 
 I'm a Physics PhD candidate at 📚 University of Southern California 📚 working on ⚛️ Quantum Computing ⚛️, M.S. in Computer Science and M.S. in Quantum Information Science.
 
-My research interests focus on quantum error correction, quantum error mitigation and their application to early fault-tolerant quantum devices. I am also interested in solving classically hard problems with quantum algorithms.
+My research interests focus on quantum error correction, quantum error mitigation and their application to early fault-tolerant quantum devices. I am also interested in solving classical problems with quantum algorithms.
 
 📫 Contact and find more about me:
 
